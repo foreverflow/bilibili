@@ -9,4 +9,5 @@ bilibili视频信息爬虫
 在scrapy.cfg所在目录
 执行命令 scrapy crawl bilibili
 
-抓取excel文件里的av号，抓取的信息将保存为json文件。文件结构为："category", "comment", "dm", "title", "url", "up", "avNo", "time", "sc", "coin", "click"
+抓取excel文件里的av号，抓取的信息将保存为json文件。
+文件结构为："category", "comment", "dm", "title", "url", "up", "avNo", "time", "sc", "coin", "click"
